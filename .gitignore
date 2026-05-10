@@ -145,5 +145,4 @@ dmypy.json
 cython_debug/
 
 # Data
-data/raw/*
-!data/raw/.gitkeep
+data/
