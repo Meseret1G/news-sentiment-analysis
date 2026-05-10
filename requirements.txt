@@ -8,3 +8,5 @@ yfinance
 scipy
 jupyter
 pytest
+TA-Lib
+pynance
